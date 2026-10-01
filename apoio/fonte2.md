@@ -1,0 +1,6 @@
+# Código de Defesa do Consumidor (Excerto 2)
+
+Art. 35. Se o fornecedor de produtos ou serviços recusar cumprimento à oferta, apresentação ou publicidade, o consumidor poderá, alternativamente e à sua livre escolha:
+I - exigir o cumprimento forçado da obrigação, nos termos da oferta, apresentação ou publicidade;
+II - aceitar outro produto ou prestação de serviço equivalente;
+III - rescindir o contrato, com direito à restituição de quantia eventualmente antecipada, monetariamente atualizada, e a perdas e danos.
